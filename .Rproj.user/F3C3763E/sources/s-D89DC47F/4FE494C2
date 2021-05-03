@@ -1,0 +1,24 @@
+{
+    "id": "4FE494C2",
+    "path": "~/140-700 Bioinformatics/pamapps/BitBucket/bnoperator/pgspline/R/main.r",
+    "project_path": "R/main.r",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1619967966140.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "2,16",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1620026768,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1620026768746,
+    "read_only": false,
+    "read_only_alternatives": []
+}

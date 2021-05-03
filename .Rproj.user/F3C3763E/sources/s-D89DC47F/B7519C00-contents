@@ -1,0 +1,10 @@
+Package: pgspline
+Type: Package
+Title: Fit a smoothing spline
+Version: 1.1
+Author: rdw
+Maintainer: The package maintainer <yourself@somewhere.net>
+Encoding: UTF-8
+LazyData: true
+Imports: bnutil, dplyr, shiny, ggplot2
+RoxygenNote: 7.1.1
